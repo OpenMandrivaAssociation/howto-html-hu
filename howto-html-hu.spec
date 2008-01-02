@@ -14,6 +14,7 @@ Source0:   %name.tar
 
 Url:		http://www.kde.hu/mlp/hogyanok/
 License:	GPL
+BuildRoot:	%{_tmppath}/%{name}-root
 BuildArch:	noarch
 
 BuildRequires: howto-utils
