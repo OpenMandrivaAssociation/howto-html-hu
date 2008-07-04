@@ -7,14 +7,14 @@
 Summary:   %language HOWTO documents (html format) from the Linux Documentation Project
 Name:      howto-%{format1}
 Version:	10.1
-Release:	%mkrel 5
+Release:	%mkrel 6
 Group:		Books/Howtos
 
 Source0:   %name.tar
 
 Url:		http://www.kde.hu/mlp/hogyanok/
 License:	GPL
-BuildRoot:	%{_tmppath}/%{name}-root
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
 
 BuildRequires: howto-utils
