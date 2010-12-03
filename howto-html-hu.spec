@@ -7,7 +7,7 @@
 Summary:   %language HOWTO documents (html format) from the Linux Documentation Project
 Name:      howto-%{format1}
 Version:	10.1
-Release:	%mkrel 7
+Release:	%mkrel 8
 Group:		Books/Howtos
 
 Source0:   %name.tar
