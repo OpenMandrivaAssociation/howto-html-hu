@@ -7,7 +7,7 @@
 Summary:	%{language} HOWTO documents (html format) from the Linux Documentation Project
 Name:		howto-%{format1}
 Version:	10.1
-Release:	17
+Release:	18
 Group:		Books/Howtos
 License:	GPLv2
 Url:		http://www.kde.hu/mlp/hogyanok/
