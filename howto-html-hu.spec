@@ -10,7 +10,7 @@ Version:	10.1
 Release:	19
 Group:		Books/Howtos
 License:	GPLv2
-Url:		http://www.kde.hu/mlp/hogyanok/
+Url:		https://www.kde.hu/mlp/hogyanok/
 Source0:	%{name}.tar
 BuildArch:	noarch
 
